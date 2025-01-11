@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: using an undefined variable. The `bug.hs` file contains code that attempts to use the undefined variable `x`, resulting in a runtime error. The `bugSolution.hs` file provides a corrected version that avoids this error.
